@@ -1,0 +1,77 @@
+/*
+Theme Name: Lovely Photography
+Theme URI: https://wordpress.org/themes/twentyseventeen/
+Author: Florian Lepelley
+Author URI: 
+Description: Website created for my lovely wife to publish her amazing work with the style she likes...
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentyseventeen
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats,  sticky-post, theme-options, threaded-comments, translation-ready
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+
+/**
+ *  Media Queries
+ */
+
+/**
+ * Does the same thing as <meta name="viewport" content="width=device-width">,
+ * but in the future W3C standard way. -ms- prefix is required for IE10+ to
+ * render responsive styling in Windows 8 "snapped" views; IE10+ does not honor
+ * the meta tag. See https://core.trac.wordpress.org/ticket/25888.
+ */
+@-ms-viewport {
+	width: device-width;
+}
+
+@viewport {
+	width: device-width;
+}
+
+
+/**
+ *  >= 710px
+ */
+
+@media screen and (min-width: 44.375em) {
+
+}
+
+/**
+ *  >= 783px
+ */
+
+@media screen and (min-width: 48.9375em) {
+
+}
+
+/**
+ *  >= 910px
+ */
+
+@media screen and (min-width: 56.875em) {
+	
+}
+
+
+/**
+ *  >= 985px
+ */
+
+@media screen and (min-width: 61.5625em) {
+	
+}
+
+
+/**
+ *  >= 1200px
+ */
+
+@media screen and (min-width: 75em) {
+	
+}
